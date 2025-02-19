@@ -1,9 +1,6 @@
-# buzzline-04-valenti
+# buzzline-6-valenti
 
 We can analyze and visualize different types of streaming data as the information arrives.
-
-The producers don't change from buzzline-03-case - they write the same information to a Kafka topic, except the csv producer for the smart smoker has been modified to not run continuously. It will stop after reading all the rows in the CSV file. 
-The consumers have been enhanced to add visualization. 
 
 This project uses matplotlib and its animation capabilities for visualization. 
 
