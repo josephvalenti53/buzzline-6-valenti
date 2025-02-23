@@ -252,7 +252,7 @@
         "count": 1
     },
     {
-        "message": "Don’t have a cow, man!",
+        "message": "Don\u2019t have a cow, man!",
         "author": "Bart",
         "season": 1,
         "episode": 1,
@@ -308,7 +308,7 @@
         "count": 1
     },
     {
-        "message": "It’s just a phase.",
+        "message": "It\u2019s just a phase.",
         "author": "Marge",
         "season": 5,
         "episode": 14,
@@ -329,7 +329,7 @@
         "count": 1
     },
     {
-        "message": "Bart, you’re just like Chucky from Rugrats, except people like Chucky.",
+        "message": "Bart, you\u2019re just like Chucky from Rugrats, except people like Chucky.",
         "author": "Lisa",
         "season": 7,
         "episode": 8,
@@ -343,7 +343,7 @@
         "count": 1
     },
     {
-        "message": "Why do I get the feeling that someday I’ll be describing this to a psychiatrist?",
+        "message": "Why do I get the feeling that someday I\u2019ll be describing this to a psychiatrist?",
         "author": "Lisa",
         "season": 6,
         "episode": 2,
@@ -357,38 +357,24 @@
         "count": 1
     },
     {
-        "message": "I'm not a hero. I’m just a guy who wants to sleep!",
+        "message": "I'm not a hero. I\u2019m just a guy who wants to sleep!",
         "author": "Homer",
         "season": 7,
         "episode": 22,
         "count": 1
     },
     {
-        "message": "I’m going to make this the best day of my life!",
+        "message": "I\u2019m going to make this the best day of my life!",
         "author": "Bart",
         "season": 6,
         "episode": 25,
         "count": 1
     },
     {
-        "message": "How do you do, fellow kids?",
-        "author": "Principal Skinner",
-        "season": 22,
-        "episode": 1,
-        "count": 1
-    },
-    {
-        "message": "I didn’t think it was physically possible, but this both sucks and blows.",
+        "message": "I didn\u2019t think it was physically possible, but this both sucks and blows.",
         "author": "Bart",
         "season": 4,
         "episode": 3,
-        "count": 1
-    },
-    {
-        "message": "Don’t take life too seriously. You’ll never get out alive.",
-        "author": "El Barto (Bart’s alter-ego)",
-        "season": 5,
-        "episode": 16,
         "count": 1
     },
     {
@@ -399,14 +385,14 @@
         "count": 1
     },
     {
-        "message": "The truth is I love you, Marge. I’m just too stupid to show it.",
+        "message": "The truth is I love you, Marge. I\u2019m just too stupid to show it.",
         "author": "Homer",
         "season": 3,
         "episode": 12,
         "count": 1
     },
     {
-        "message": "I didn’t hear any big, blaring warning sirens.",
+        "message": "I didn\u2019t hear any big, blaring warning sirens.",
         "author": "Bart",
         "season": 10,
         "episode": 14,
@@ -420,14 +406,14 @@
         "count": 1
     },
     {
-        "message": "I’m a lover, not a fighter. But I’ll fight if I have to.",
+        "message": "I\u2019m a lover, not a fighter. But I\u2019ll fight if I have to.",
         "author": "Homer",
         "season": 2,
         "episode": 5,
         "count": 1
     },
     {
-        "message": "Stop! You’re breaking my heart!",
+        "message": "Stop! You\u2019re breaking my heart!",
         "author": "Marge",
         "season": 3,
         "episode": 10,
@@ -441,7 +427,7 @@
         "count": 1
     },
     {
-        "message": "I didn't do it. I swear I didn’t do it!",
+        "message": "I didn't do it. I swear I didn\u2019t do it!",
         "author": "Bart",
         "season": 5,
         "episode": 10,
@@ -455,7 +441,7 @@
         "count": 1
     },
     {
-        "message": "There’s no such thing as a free lunch. But there is such a thing as free beer.",
+        "message": "There\u2019s no such thing as a free lunch. But there is such a thing as free beer.",
         "author": "Homer",
         "season": 9,
         "episode": 7,
@@ -476,7 +462,7 @@
         "count": 1
     },
     {
-        "message": "I’ve learned that life is a series of unrelated events that serve no meaningful purpose.",
+        "message": "I\u2019ve learned that life is a series of unrelated events that serve no meaningful purpose.",
         "author": "Lisa",
         "season": 7,
         "episode": 22,
@@ -494,6 +480,314 @@
         "author": "Bart",
         "season": 5,
         "episode": 13,
+        "count": 1
+    },
+    {
+        "message": "I believe the children are the future... Unless we stop them now!",
+        "author": "Homer",
+        "season": 5,
+        "episode": 2,
+        "count": 1
+    },
+    {
+        "message": "I\u2019m somewhere where I don\u2019t know where I am!",
+        "author": "Homer",
+        "season": 10,
+        "episode": 5,
+        "count": 1
+    },
+    {
+        "message": "It takes two to lie. One to lie and one to listen.",
+        "author": "Homer",
+        "season": 3,
+        "episode": 20,
+        "count": 1
+    },
+    {
+        "message": "I can\u2019t promise I\u2019ll try, but I\u2019ll try to try.",
+        "author": "Bart",
+        "season": 5,
+        "episode": 11,
+        "count": 1
+    },
+    {
+        "message": "Your ideas are intriguing to me and I wish to subscribe to your newsletter.",
+        "author": "Homer",
+        "season": 6,
+        "episode": 19,
+        "count": 1
+    },
+    {
+        "message": "If something\u2019s hard to do, then it\u2019s not worth doing.",
+        "author": "Homer",
+        "season": 9,
+        "episode": 2,
+        "count": 1
+    },
+    {
+        "message": "Weaseling out of things is important to learn. It\u2019s what separates us from the animals! Except the weasel.",
+        "author": "Homer",
+        "season": 5,
+        "episode": 16,
+        "count": 1
+    },
+    {
+        "message": "I\u2019m not a bad guy! I work hard, and I love my kids. So why should I spend half my Sunday hearing about how I\u2019m going to Hell?",
+        "author": "Homer",
+        "season": 2,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "To alcohol! The cause of, and solution to, all of life\u2019s problems.",
+        "author": "Homer",
+        "season": 8,
+        "episode": 18,
+        "count": 1
+    },
+    {
+        "message": "I\u2019m normally not a praying man, but if you\u2019re up there, please save me, Superman!",
+        "author": "Homer",
+        "season": 4,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "I can\u2019t live the buttoned-down life like you. I want it all! The terrifying lows, the dizzying highs, the creamy middles!",
+        "author": "Homer",
+        "season": 5,
+        "episode": 12,
+        "count": 1
+    },
+    {
+        "message": "I\u2019m in no condition to drive\u2026 Wait! I shouldn\u2019t listen to myself, I\u2019m drunk!",
+        "author": "Homer",
+        "season": 10,
+        "episode": 10,
+        "count": 1
+    },
+    {
+        "message": "Just because I don\u2019t care doesn\u2019t mean I don\u2019t understand.",
+        "author": "Homer",
+        "season": 6,
+        "episode": 1,
+        "count": 1
+    },
+    {
+        "message": "I\u2019m Bart Simpson, who the hell are you?",
+        "author": "Bart",
+        "season": 1,
+        "episode": 2,
+        "count": 1
+    },
+    {
+        "message": "That\u2019s it! You people have stood in my way long enough. I\u2019m going to clown college!",
+        "author": "Homer",
+        "season": 6,
+        "episode": 15,
+        "count": 1
+    },
+    {
+        "message": "You tried your best and you failed miserably. The lesson is: never try.",
+        "author": "Homer",
+        "season": 5,
+        "episode": 2,
+        "count": 1
+    },
+    {
+        "message": "I\u2019m not a bad guy! I work hard, and I love my kids. So why should I spend half my Sunday hearing about how I\u2019m going to Hell?",
+        "author": "Homer",
+        "season": 2,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "I hope I didn\u2019t brain my damage.",
+        "author": "Homer",
+        "season": 5,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "You know, Fox turned into a hardcore sex channel so gradually, I didn\u2019t even notice.",
+        "author": "Marge",
+        "season": 13,
+        "episode": 22,
+        "count": 1
+    },
+    {
+        "message": "I am so smart! I am so smart! S-M-R-T! I mean S-M-A-R-T!",
+        "author": "Homer",
+        "season": 5,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "If anyone wants me, I\u2019ll be in my room.",
+        "author": "Lisa",
+        "season": 8,
+        "episode": 23,
+        "count": 1
+    },
+    {
+        "message": "Save me, Jebus!",
+        "author": "Homer",
+        "season": 11,
+        "episode": 19,
+        "count": 1
+    },
+    {
+        "message": "I didn\u2019t think it was physically possible, but this both sucks and blows.",
+        "author": "Bart",
+        "season": 4,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "I'm not a bad guy! I just have bad luck.",
+        "author": "Homer",
+        "season": 4,
+        "episode": 12,
+        "count": 1
+    },
+    {
+        "message": "Lisa, if you don\u2019t like your job you don\u2019t strike! You just go in every day and do it really half-assed. That\u2019s the American way.",
+        "author": "Homer",
+        "season": 6,
+        "episode": 18,
+        "count": 1
+    },
+    {
+        "message": "Oh boy! Buffalo testicles!",
+        "author": "Bart",
+        "season": 9,
+        "episode": 18,
+        "count": 1
+    },
+    {
+        "message": "Shut up, brain, or I\u2019ll stab you with a Q-tip!",
+        "author": "Homer",
+        "season": 9,
+        "episode": 1,
+        "count": 1
+    },
+    {
+        "message": "D'oh!",
+        "author": "Homer",
+        "season": 1,
+        "episode": 13,
+        "count": 1
+    },
+    {
+        "message": "Mmm... donuts.",
+        "author": "Homer",
+        "season": 5,
+        "episode": 10,
+        "count": 1
+    },
+    {
+        "message": "I am so smart! I am so smart! S-M-R-T! I mean S-M-A-R-T!",
+        "author": "Homer",
+        "season": 5,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "Just because I don\u2019t care doesn\u2019t mean I don\u2019t understand.",
+        "author": "Homer",
+        "season": 6,
+        "episode": 1,
+        "count": 1
+    },
+    {
+        "message": "Eat my shorts!",
+        "author": "Bart",
+        "season": 1,
+        "episode": 1,
+        "count": 1
+    },
+    {
+        "message": "Don\u2019t have a cow, man!",
+        "author": "Bart",
+        "season": 1,
+        "episode": 1,
+        "count": 1
+    },
+    {
+        "message": "Ay caramba!",
+        "author": "Bart",
+        "season": 1,
+        "episode": 1,
+        "count": 1
+    },
+    {
+        "message": "I didn\u2019t do it!",
+        "author": "Bart",
+        "season": 5,
+        "episode": 2,
+        "count": 1
+    },
+    {
+        "message": "Oh, Homie.",
+        "author": "Marge",
+        "season": 2,
+        "episode": 10,
+        "count": 1
+    },
+    {
+        "message": "I love you, Homer.",
+        "author": "Marge",
+        "season": 4,
+        "episode": 20,
+        "count": 1
+    },
+    {
+        "message": "It\u2019s just a phase.",
+        "author": "Marge",
+        "season": 5,
+        "episode": 14,
+        "count": 1
+    },
+    {
+        "message": "I am the lizard queen!",
+        "author": "Lisa",
+        "season": 9,
+        "episode": 1,
+        "count": 1
+    },
+    {
+        "message": "Dad, as intelligence goes up, happiness often goes down.",
+        "author": "Lisa",
+        "season": 8,
+        "episode": 5,
+        "count": 1
+    },
+    {
+        "message": "Why do I always have to be the one to do the right thing?",
+        "author": "Lisa",
+        "season": 3,
+        "episode": 5,
+        "count": 1
+    },
+    {
+        "message": "*sucking noises*",
+        "author": "Maggie",
+        "season": 1,
+        "episode": 1,
+        "count": 1
+    },
+    {
+        "message": "Hmph!",
+        "author": "Maggie",
+        "season": 3,
+        "episode": 10,
+        "count": 1
+    },
+    {
+        "message": "Puh!",
+        "author": "Maggie",
+        "season": 6,
+        "episode": 17,
         "count": 1
     }
 ]
