@@ -22,7 +22,6 @@ def get_kafka_consumer_group_id() -> str:
     return group_id
 
 # Set up data structures
-author_counts = defaultdict(int)
 season_counts = defaultdict(lambda: defaultdict(int))  # Nested dictionary to store counts per season
 
 # Set up live visuals
@@ -36,37 +35,33 @@ author_colors = {
     "Marge": "blue",
     "Lisa": "black",
     "Maggie": "pink",
-    # Add more authors and colors as needed
 }
 
 def update_chart():
-    """Update the live chart with the latest counts."""
+    """Update the live chart with the latest counts, including percentage labels."""
     ax.clear()
-
-    # Sort the seasons numerically
     sorted_seasons = sorted(season_counts.keys(), key=int)
-    
-    # Extract the seasons and their counts
     bottom_counts = [0] * len(sorted_seasons)
     bars = []
-
-    # For each author, create a stacked bar segment
+    total_messages_per_season = {season: sum(season_counts[season].values()) for season in sorted_seasons}
+    
     for author, color in author_colors.items():
         author_message_counts = [season_counts[season].get(author, 0) for season in sorted_seasons]
         bars.append(ax.bar(sorted_seasons, author_message_counts, bottom=bottom_counts, color=color, label=author))
+        
+        for i, count in enumerate(author_message_counts):
+            if count > 0:
+                percentage = (count / total_messages_per_season[sorted_seasons[i]]) * 100
+                ax.text(sorted_seasons[i], bottom_counts[i] + count / 2, f"{percentage:.1f}%", ha='center', va='center', fontsize=8, color='white')
+        
         bottom_counts = [bottom + count for bottom, count in zip(bottom_counts, author_message_counts)]
-
+    
     ax.set_xlabel("Seasons")
     ax.set_ylabel("Message Counts")
     ax.set_title("The Simpsons Most Memorable Leader (Seasons 1-30)")
-
-    # Set x-axis to show seasons in correct order
-    ax.set_xticks(sorted_seasons)  # Ensure correct x-tick positions
+    ax.set_xticks(sorted_seasons)
     ax.set_xticklabels(sorted_seasons, rotation=45, ha="right")
-
-    # Add a legend
     ax.legend()
-
     plt.tight_layout()
     plt.draw()
     plt.pause(0.01)
@@ -82,11 +77,9 @@ def process_message(message: str) -> None:
             season = message_dict.get("season", "unknown")
             logger.info(f"Message received from author: {author} in season: {season}")
 
-            # Increment the count for the author and season
             season_counts[season][author] += 1
             logger.info(f"Updated season counts: {dict(season_counts)}")
 
-            # Update the chart
             update_chart()
             logger.info(f"Chart updated successfully for message: {message}")
         else:
