@@ -1,14 +1,12 @@
 # buzzline-6-valenti
 
-We can analyze and visualize different types of streaming data as the information arrives.
-
 This project uses matplotlib and its animation capabilities for visualization. 
 
-It generates one application:
+It generates one application - a Stacked Bar Chart visualizing who is the most memorable Simpson's character across Seasons 1-30.    
 
 1. A JSON producer and consumer that exchange information via a Kafka topic. 
 
-The application will illustrate from a file named data.simpsons.json which Simpsons character has the most memorable quotations that season by counting the character's message for that season. 
+The application will illustrate from a file named data.simpsons.json which Simpsons character has the most memorable quotations that season by counting the character's message for that season.  The Simpson's popularity due to its writing dropped after season 9 after the "Principal and the Pauper" episode which negates Simpson's canon.  
 
 ## Task 1. Use Tools from Module 1 and 2
 
@@ -19,7 +17,7 @@ Python 3.11 is required.
 
 Once the tools are installed, copy/fork this project into your GitHub account
 and create your own version of this project to run and experiment with. 
-Follow the instructions in [FORK-THIS-REPO.md](https://github.com/josephvalenti53/buzzline-04-valenti/FORK-THIS-REPO.md).
+Follow the instructions in [FORK-THIS-REPO.md](https://github.com/josephvalenti53/buzzline-6-valenti/FORK-THIS-REPO.md).
 
 OR: For more practice, add these example scripts or features to your earlier project. 
 You'll want to check requirements.txt, .env, and the consumers, producers, and util folders. 
@@ -104,23 +102,6 @@ When done, remember to kill the associated terminals for the producer and consum
 
 ---
 
-## Possible Explorations
-
-- JSON: Process messages in batches of 5 messages.
-- JSON:Limit the display to the top 3 authors.
-- Modify chart appearance.
-- Stream a different set of data and visualize the custom stream with an appropriate chart. 
-- How do we find out what types of charts are available? 
-- How do we find out what attributes and colors are available?
-
----
-
-## Later Work Sessions
-When resuming work on this project:
-1. Open the folder in VS Code. 
-2. Start the Zookeeper service.
-3. Start the Kafka service.
-4. Activate your local project virtual environment (.env).
 
 ## Save Space
 To save disk space, you can delete the .venv folder when not actively working on this project.
@@ -132,17 +113,5 @@ This project is licensed under the MIT License as an example project.
 You are encouraged to fork, copy, explore, and modify the code as you like. 
 See the [LICENSE](LICENSE.txt) file for more.
 
-## Live Chart Examples
 
-Live Bar Chart (JSON file streaming)
-
-![Basic JSON (file-exchange)](images/live_bar_chart_basic_example.jpg)
-
-Live Bar Chart (Kafka JSON streaming)
-
-![JSON (Kafka)](images/live_bar_chart_example.jpg)
-
-Live Line Chart with Alert (Kafka CSV streaming)
-
-![CSV (Kafka)](images/live_line_chart_example.jpg)
 

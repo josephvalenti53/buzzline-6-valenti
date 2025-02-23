@@ -52,7 +52,8 @@ def update_chart():
         for i, count in enumerate(author_message_counts):
             if count > 0:
                 percentage = (count / total_messages_per_season[sorted_seasons[i]]) * 100
-                ax.text(sorted_seasons[i], bottom_counts[i] + count / 2, f"{percentage:.1f}%", ha='center', va='center', fontsize=8, color='white')
+                text_color = "black" if author in ["Homer", "Maggie"] else "white"
+                ax.text(sorted_seasons[i], bottom_counts[i] + count / 2, f"{percentage:.1f}%", ha='center', va='center', fontsize=8, color=text_color)
         
         bottom_counts = [bottom + count for bottom, count in zip(bottom_counts, author_message_counts)]
     
