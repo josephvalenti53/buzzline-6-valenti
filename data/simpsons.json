@@ -789,5 +789,362 @@
         "season": 6,
         "episode": 17,
         "count": 1
+    },
+    {
+        "message": "Trying is the first step towards failure.",
+        "author": "Homer",
+        "season": 4,
+        "episode": 5,
+        "count": 1
+    },
+    {
+        "message": "I wish I had a job like that.",
+        "author": "Homer",
+        "season": 7,
+        "episode": 15,
+        "count": 1
+    },
+    {
+        "message": "I\u2019m not a bad guy! I work hard, and I love my kids. So why should I spend half my Sunday hearing about how I\u2019m going to Hell?",
+        "author": "Homer",
+        "season": 2,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "I can\u2019t promise I\u2019ll try, but I\u2019ll try to try.",
+        "author": "Bart",
+        "season": 5,
+        "episode": 11,
+        "count": 1
+    },
+    {
+        "message": "Cool, I broke his brain!",
+        "author": "Bart",
+        "season": 9,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "I am so great! I am so great! Everybody loves me, I am so great!",
+        "author": "Bart",
+        "season": 4,
+        "episode": 8,
+        "count": 1
+    },
+    {
+        "message": "Homer, is this how you pictured married life?",
+        "author": "Marge",
+        "season": 1,
+        "episode": 5,
+        "count": 1
+    },
+    {
+        "message": "Lisa, stop being so proud of being a nerd.",
+        "author": "Marge",
+        "season": 9,
+        "episode": 15,
+        "count": 1
+    },
+    {
+        "message": "Bart, don't make fun of grad students. They just made a terrible life choice.",
+        "author": "Marge",
+        "season": 17,
+        "episode": 9,
+        "count": 1
+    },
+    {
+        "message": "The second amendment is just a remnant from the Revolutionary War era. It has no meaning today!",
+        "author": "Lisa",
+        "season": 9,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "If anyone wants me, I\u2019ll be in my room.",
+        "author": "Lisa",
+        "season": 8,
+        "episode": 23,
+        "count": 1
+    },
+    {
+        "message": "This is the worst day of my life.",
+        "author": "Lisa",
+        "season": 4,
+        "episode": 2,
+        "count": 1
+    },
+    {
+        "message": "*sucks pacifier loudly*",
+        "author": "Maggie",
+        "season": 2,
+        "episode": 12,
+        "count": 1
+    },
+    {
+        "message": "Maggie\u2019s first word: Daddy.",
+        "author": "Maggie",
+        "season": 4,
+        "episode": 10,
+        "count": 1
+    },
+    {
+        "message": "I believe the children are the future... Unless we stop them now!",
+        "author": "Homer",
+        "season": 5,
+        "episode": 2,
+        "count": 1
+    },
+    {
+        "message": "It takes two to lie. One to lie and one to listen.",
+        "author": "Homer",
+        "season": 3,
+        "episode": 20,
+        "count": 1
+    },
+    {
+        "message": "I can\u2019t promise I\u2019ll try, but I\u2019ll try to try.",
+        "author": "Bart",
+        "season": 5,
+        "episode": 11,
+        "count": 1
+    },
+    {
+        "message": "Your ideas are intriguing to me and I wish to subscribe to your newsletter.",
+        "author": "Homer",
+        "season": 6,
+        "episode": 19,
+        "count": 1
+    },
+    {
+        "message": "If something\u2019s hard to do, then it\u2019s not worth doing.",
+        "author": "Homer",
+        "season": 9,
+        "episode": 2,
+        "count": 1
+    },
+    {
+        "message": "Weaseling out of things is important to learn. It\u2019s what separates us from the animals! Except the weasel.",
+        "author": "Homer",
+        "season": 5,
+        "episode": 16,
+        "count": 1
+    },
+    {
+        "message": "I hope I didn\u2019t brain my damage.",
+        "author": "Homer",
+        "season": 5,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "Lisa, if you don\u2019t like your job you don\u2019t strike! You just go in every day and do it really half-assed. That\u2019s the American way.",
+        "author": "Homer",
+        "season": 6,
+        "episode": 18,
+        "count": 1
+    },
+    {
+        "message": "Attempted murder? Now honestly, what is that? Do they give a Nobel Prize for attempted chemistry?",
+        "author": "Sideshow Bob",
+        "season": 5,
+        "episode": 2,
+        "count": 1
+    },
+    {
+        "message": "Bart, don\u2019t make fun of grad students. They just made a terrible life choice.",
+        "author": "Marge",
+        "season": 13,
+        "episode": 10,
+        "count": 1
+    },
+    {
+        "message": "I just think they\u2019re neat!",
+        "author": "Marge",
+        "season": 10,
+        "episode": 10,
+        "count": 1
+    },
+    {
+        "message": "Milhouse, we live in the age of cooties!",
+        "author": "Bart",
+        "season": 4,
+        "episode": 12,
+        "count": 1
+    },
+    {
+        "message": "My teacher said I\u2019m not allowed to grow up.",
+        "author": "Bart",
+        "season": 6,
+        "episode": 13,
+        "count": 1
+    },
+    {
+        "message": "I am the Lizard Queen!",
+        "author": "Lisa",
+        "season": 9,
+        "episode": 1,
+        "count": 1
+    },
+    {
+        "message": "Why do I get the feeling that someday I\u2019ll be describing this to a psychiatrist?",
+        "author": "Lisa",
+        "season": 6,
+        "episode": 2,
+        "count": 1
+    },
+    {
+        "message": "*sucking noises*",
+        "author": "Maggie",
+        "season": 1,
+        "episode": 1,
+        "count": 1
+    },
+    {
+        "message": "Hmph!",
+        "author": "Maggie",
+        "season": 3,
+        "episode": 10,
+        "count": 1
+    },
+    {
+        "message": "I'm like a phoenix, rising from the ashes... of my couch!",
+        "author": "Homer",
+        "season": 22,
+        "episode": 5,
+        "count": 1
+    },
+    {
+        "message": "I used to be with it, but then they changed what 'it' was. Now what I'm with isn't it, and what's 'it' seems weird and scary.",
+        "author": "Homer",
+        "season": 23,
+        "episode": 9,
+        "count": 1
+    },
+    {
+        "message": "I love being a trendsetter... as long as I don't have to move!",
+        "author": "Homer",
+        "season": 27,
+        "episode": 14,
+        "count": 1
+    },
+    {
+        "message": "Life is one crushing defeat after another until you just wish Flanders was dead.",
+        "author": "Homer",
+        "season": 21,
+        "episode": 10,
+        "count": 1
+    },
+    {
+        "message": "The key to parenting is don't overthink it. Because overthinking leads to... uh, something bad.",
+        "author": "Homer",
+        "season": 28,
+        "episode": 6,
+        "count": 1
+    },
+    {
+        "message": "I'm not saying I'm a hero, I'm just saying that I am constantly risking my life for trivial things.",
+        "author": "Homer",
+        "season": 29,
+        "episode": 12,
+        "count": 1
+    },
+    {
+        "message": "No TV and no beer make Homer something something...",
+        "author": "Homer",
+        "season": 22,
+        "episode": 11,
+        "count": 1
+    },
+    {
+        "message": "Eat my shorts... again!",
+        "author": "Bart",
+        "season": 20,
+        "episode": 8,
+        "count": 1
+    },
+    {
+        "message": "I can\u2019t believe it! I\u2019m actually passing a class!",
+        "author": "Bart",
+        "season": 24,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "I'm not great at the advice. Can I interest you in a sarcastic comment?",
+        "author": "Bart",
+        "season": 26,
+        "episode": 17,
+        "count": 1
+    },
+    {
+        "message": "This is the worst day of my life... so far.",
+        "author": "Bart",
+        "season": 23,
+        "episode": 4,
+        "count": 1
+    },
+    {
+        "message": "You know, it's not easy being a mom. If it were easy, fathers would do it.",
+        "author": "Marge",
+        "season": 25,
+        "episode": 9,
+        "count": 1
+    },
+    {
+        "message": "Sometimes you have to be cruel to be kind\u2026 or in my case, just kind.",
+        "author": "Marge",
+        "season": 27,
+        "episode": 18,
+        "count": 1
+    },
+    {
+        "message": "Homer, I\u2019m not the one who forgot our anniversary, but I am the one who\u2019s going to fix it!",
+        "author": "Marge",
+        "season": 21,
+        "episode": 6,
+        "count": 1
+    },
+    {
+        "message": "I'm sure that whatever Lisa does, it will be the right thing.",
+        "author": "Marge",
+        "season": 30,
+        "episode": 5,
+        "count": 1
+    },
+    {
+        "message": "Why do I always have to be the voice of reason?",
+        "author": "Lisa",
+        "season": 21,
+        "episode": 15,
+        "count": 1
+    },
+    {
+        "message": "A noble spirit embiggens the smallest man.",
+        "author": "Lisa",
+        "season": 26,
+        "episode": 18,
+        "count": 1
+    },
+    {
+        "message": "I can\u2019t turn my back on the truth. It\u2019s like turning your back on a puppy!",
+        "author": "Lisa",
+        "season": 24,
+        "episode": 8,
+        "count": 1
+    },
+    {
+        "message": "*sucks pacifier angrily*",
+        "author": "Maggie",
+        "season": 22,
+        "episode": 3,
+        "count": 1
+    },
+    {
+        "message": "*falls over and glares*",
+        "author": "Maggie",
+        "season": 28,
+        "episode": 12,
+        "count": 1
     }
 ]
