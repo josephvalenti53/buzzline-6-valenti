@@ -58,7 +58,7 @@ def update_chart():
 
     ax.set_xlabel("Seasons")
     ax.set_ylabel("Message Counts")
-    ax.set_title("The Simpsons Star of the Season")
+    ax.set_title("The Simpsons Most Memorable Leader (Seasons 1-30)")
 
     # Set x-axis to show seasons in correct order
     ax.set_xticks(sorted_seasons)  # Ensure correct x-tick positions
